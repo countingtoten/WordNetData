@@ -1,0 +1,49 @@
+  1 This software and database is being provided to you, the LICENSEE, by  
+  2 Princeton University under the following license.  By obtaining, using  
+  3 and/or copying this software and database, you agree that you have  
+  4 read, understood, and will comply with these terms and conditions.:  
+  5   
+  6 Permission to use, copy, modify and distribute this software and  
+  7 database and its documentation for any purpose and without fee or  
+  8 royalty is hereby granted, provided that you agree to comply with  
+  9 the following copyright notice and statements, including the disclaimer,  
+  10 and that the same appear on ALL copies of the software, database and  
+  11 documentation, including modifications that you make for internal  
+  12 use or for distribution.  
+  13   
+  14 WordNet 3.0 Copyright 2006 by Princeton University.  All rights reserved.  
+  15   
+  16 THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON  
+  17 UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR  
+  18 IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON  
+  19 UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-  
+  20 ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE  
+  21 OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT  
+  22 INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR  
+  23 OTHER RIGHTS.  
+  24   
+  25 The name of Princeton University or Princeton may not be used in  
+  26 advertising or publicity pertaining to distribution of the software  
+  27 and/or database.  Title to copyright in this software, database and  
+  28 any associated documentation shall at all times remain with  
+  29 Princeton University and LICENSEE agrees to preserve same.  
+00138912 00 a 01 a_priori 0 003 ^ 00110853 a 0000 ^ 01296474 a 0000 ! 00139126 a 0101 | involving deductive reasoning from a general principle to a necessary effect; not supported by fact; "an a priori judgment"  
+00139126 00 a 01 a_posteriori 0 003 ^ 01296270 a 0000 ^ 00111129 a 0000 ! 00138912 a 0101 | involving reasoning from facts or particulars to general principles or from effects to causes; "a posteriori demonstration"  
+00861109 00 s 01 a_priori 0 001 & 00860611 a 0000 | based on hypothesis or theory rather than experiment  
+00904548 00 a 01 contemptible 0 007 ^ 01589217 a 0000 ^ 02588099 a 0000 + 04807971 n 0103 ! 00904163 a 0101 & 00904745 a 0000 & 00905039 a 0000 & 00905181 a 0000 | deserving of contempt or scorn  
+00904745 00 s 06 abject 0 low 0 low-down 0 miserable 0 scummy 0 scurvy 0 001 & 00904548 a 0000 | of the most contemptible kind; "abject cowardice"; "a low stunt to pull"; "a low-down sneak"; "his miserable treatment of his family"; "You miserable skunk!"; "a scummy rabble"; "a scurvy trick"  
+01049941 00 s 01 abject 0 001 & 01049462 a 0000 | most unfortunate or miserable; "the most abject slaves joined in the revolt"; "abject poverty"  
+01229435 00 s 02 abject 0 unhopeful 0 001 & 01229020 a 0000 | showing utter resignation or hopelessness; "abject surrender"  
+00789281 00 s 01 abject 0 001 & 00788821 a 0000 | showing humiliation or submissiveness; "an abject apology"  
+00788145 00 s 02 cavalier 0 high-handed 0 002 & 00787136 a 0000 + 04887912 n 0204 | given to haughty disregard of others  
+00749230 00 a 01 easy 1 016 ^ 00838296 a 0000 ^ 02174896 a 0000 ^ 01156112 a 0000 ^ 00711528 a 0000 = 04708113 n 0000 + 04708113 n 0102 ! 00744916 a 0101 & 00749749 a 0000 & 00749947 a 0000 & 00750054 a 0000 & 00750296 a 0000 & 00750602 a 0000 & 00750712 a 0000 & 00750843 a 0000 & 00750926 a 0000 & 00751099 a 0000 | posing no difficulty; requiring little effort; "an easy job"; "an easy problem"; "an easy victory"; "the house is easy to heat"; "satisfied with easy answers"; "took the easy way out of his dilemma"  
+01272176 00 s 03 easy 0 easygoing 0 leisurely 0 004 & 01271700 a 0000 + 15137676 n 0301 + 05062255 n 0301 + 04708113 n 0102 | not hurried or forced; "an easy walk around the block"; "at a leisurely (or easygoing) pace"  
+00822115 00 a 01 easy 2 004 ^ 00479330 a 0000 ^ 02407603 a 0000 + 07515974 n 0101 ! 00822449 a 0101 | free from worry or anxiety; "knowing that I had done my best, my mind was easy"; "an easy good-natured manner"; "by the time the chsild faced the actual problem of reading she was familiar and at ease with all the elements words"  
+01808139 00 s 01 easy 0 001 & 01807219 a 0000 | affording pleasure; "easy good looks"  
+01192035 00 s 03 easy 0 gentle 0 soft 0 002 & 01191876 a 0000 + 04910973 n 0201 | having little impact; "an easy pat on the shoulder"; "gentle rain"; "a gentle breeze"; "a soft (or light) tapping at the window"  
+02364721 00 s 01 easy 0 001 & 02364448 a 0000 | readily exploited or tricked; "an easy victim"; "an easy mark"  
+02022556 00 s 08 comfortable 0 easy 0 prosperous 0 well-fixed 0 well-heeled 0 well-off 0 well-situated 0 well-to-do 0 002 & 02021905 a 0000 + 14474052 n 0301 | in fortunate circumstances financially; moderately rich; "they were comfortable or even wealthy by some standards"; "easy living"; "a prosperous family"; "his family is well-situated financially"; "well-to-do members of the community"  
+01207007 00 s 03 low-growing 0 flat-growing 0 ground-hugging 0 001 & 01206474 a 0000 | of plants that grow relatively low to the ground  
+01408593 00 a 04 leptorrhine 0 leptorhine 0 leptorrhinian 0 leptorrhinic 0 002 ! 01408738 a 0101 ! 01408929 a 0101 | having a long narrow nose  
+03000447 01 a 02 zymotic 1 zymolytic 0 004 + 13575433 n 0202 \ 13575433 n 0201 + 13575433 n 0101 \ 13575433 n 0101 | of or relating to or causing fermentation  
+03000341 01 a 01 zymotic 0 002 + 13575226 n 0101 \ 13575226 n 0101 | relating to or caused by infection  
